@@ -2,7 +2,7 @@
 
  Hi, I'm Yacine Ait Oubelli, I'm:
 
- A Second-year BSc Computer Science student at **Liverpool John Moores University**  
+ A Second year BSc Computer Science student at **Liverpool John Moores University**  
  Passionate about **full-stack development**, **mobile apps**, and **building real world solutions**  
  Currently focused on **React Native**, **Firebase**, **Java**, **Spring Boot**, and **PostgresSQL**
 

@@ -7,10 +7,12 @@
  Currently focused on **React Native**, **Firebase**, **Java**, **Spring Boot**, and **PostgresSQL**
 
  Projects i have worked on:
- - a python program that loads and reads data from a dataset, and produces a chart based on the users desired option
-
+ - a sleep analysis python program
+ - an Expense Tracker API
+ 
   Projects I'm Working On:
-  - an Expense Tracker API
+ - a Task tracker api 
+
 
 
 

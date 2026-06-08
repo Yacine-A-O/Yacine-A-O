@@ -1,6 +1,6 @@
 # Hey, I'm Yacine 
 
-I'm a third-year BSc (Hons) Computer Science student at Liverpool John Moores University.
+I'm a third year BSc (Hons) Computer Science student at Liverpool John Moores University.
 
 I've been interested in technology for as long as I can remember, and right now I'm spending most of my time learning about Cloud Computing, AWS, and DevOps.
 
